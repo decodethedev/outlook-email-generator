@@ -1,0 +1,10 @@
+{
+  "threads": 10,
+  "delay_per_thread": 100,
+  "accounts_file_name": "accounts.txt",
+
+  "proxies_file_name": "proxies.txt",
+  "use_proxies": true,
+
+  "any_captcha_token": ""
+}
